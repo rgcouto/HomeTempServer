@@ -1,0 +1,1405 @@
+{"timestamp":"14/12/2014 17:12:11", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "dhcphost.di.ubi.pt",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"14/12/2014 17:12:34", "data":{
+  "ip": "188.104.47.12",
+  "hostname": "dslb-188-104-047-012.188.104.pools.vodafone-ip.de",
+  "city": "Ansbach",
+  "region": "Bayern",
+  "country": "DE",
+  "loc": "49.3007,10.5692",
+  "org": "AS3209 Vodafone GmbH",
+  "postal": "91522"
+}},{"timestamp":"14/12/2014 17:12:34", "data":{
+  "ip": "188.104.47.12",
+  "hostname": "dslb-188-104-047-012.188.104.pools.vodafone-ip.de",
+  "city": "Ansbach",
+  "region": "Bayern",
+  "country": "DE",
+  "loc": "49.3007,10.5692",
+  "org": "AS3209 Vodafone GmbH",
+  "postal": "91522"
+}},{"timestamp":"14/12/2014 17:12:34", "data":{
+  "ip": "188.104.47.12",
+  "hostname": "dslb-188-104-047-012.188.104.pools.vodafone-ip.de",
+  "city": "Ansbach",
+  "region": "Bayern",
+  "country": "DE",
+  "loc": "49.3007,10.5692",
+  "org": "AS3209 Vodafone GmbH",
+  "postal": "91522"
+}},{"timestamp":"14/12/2014 17:12:43", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "No Hostname",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"14/12/2014 17:12:58", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "dhcphost.di.ubi.pt",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"14/12/2014 18:12:16", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "No Hostname",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"14/12/2014 18:12:02", "data":{
+  "ip": "188.80.118.12",
+  "hostname": "bl15-118-12.dsl.telepac.pt",
+  "city": null,
+  "region": null,
+  "country": "PT",
+  "loc": "38.7139,-9.1394",
+  "org": "AS3243 PT Comunicacoes S.A."
+}},{"timestamp":"14/12/2014 18:12:26", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "dhcphost.di.ubi.pt",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"14/12/2014 18:12:08", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "dhcphost.di.ubi.pt",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"14/12/2014 19:12:06", "data":{
+  "ip": "2.82.20.249",
+  "hostname": "bl21-20-249.dsl.telepac.pt",
+  "city": null,
+  "region": null,
+  "country": "PT",
+  "loc": "38.7139,-9.1394",
+  "org": "AS3243 PT Comunicacoes S.A."
+}},{"timestamp":"14/12/2014 20:12:47", "data":{
+  "ip": "84.90.35.43",
+  "hostname": "No Hostname",
+  "city": "Fundão",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.1402,-7.5013",
+  "org": "AS13156 Cabovisao,SA"
+}},{"timestamp":"14/12/2014 20:12:00", "data":{
+  "ip": "84.90.35.43",
+  "hostname": "to2-84-90-35-43.netvisao.pt",
+  "city": "Fundão",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.1402,-7.5013",
+  "org": "AS13156 Cabovisao,SA"
+}},{"timestamp":"14/12/2014 20:41:00", "data":{
+  "ip": "84.90.35.43",
+  "hostname": "to2-84-90-35-43.netvisao.pt",
+  "city": "Fundão",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.1402,-7.5013",
+  "org": "AS13156 Cabovisao,SA"
+}},{"timestamp":"14/12/2014 22:20:44", "data":{
+  "ip": "84.90.35.43",
+  "hostname": "No Hostname",
+  "city": "Fundão",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.1402,-7.5013",
+  "org": "AS13156 Cabovisao,SA"
+}},{"timestamp":"15/12/2014 09:48:09", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "No Hostname",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"15/12/2014 11:30:59", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "No Hostname",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"15/12/2014 11:31:35", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "No Hostname",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"15/12/2014 11:37:55", "data":{
+  "ip": "193.192.225.214",
+  "hostname": "No Hostname",
+  "city": "Zurich",
+  "region": "Zurich",
+  "country": "CH",
+  "loc": "47.3667,8.5500",
+  "org": "AS6730 Sunrise Communications AG"
+}},{"timestamp":"15/12/2014 12:01:13", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "No Hostname",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"15/12/2014 18:20:40", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "No Hostname",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"15/12/2014 18:20:54", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "No Hostname",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"15/12/2014 18:21:10", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "dhcphost.di.ubi.pt",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"15/12/2014 18:21:11", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "dhcphost.di.ubi.pt",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"15/12/2014 21:50:40", "data":{
+  "ip": "84.90.35.43",
+  "hostname": "to2-84-90-35-43.netvisao.pt",
+  "city": "Fundão",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.1402,-7.5013",
+  "org": "AS13156 Cabovisao,SA"
+}},{"timestamp":"15/12/2014 21:50:41", "data":{
+  "ip": "84.90.35.43",
+  "hostname": "No Hostname",
+  "city": "Fundão",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.1402,-7.5013",
+  "org": "AS13156 Cabovisao,SA"
+}},{"timestamp":"15/12/2014 21:51:16", "data":{
+  "ip": "84.90.35.43",
+  "hostname": "to2-84-90-35-43.netvisao.pt",
+  "city": "Fundão",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.1402,-7.5013",
+  "org": "AS13156 Cabovisao,SA"
+}},{"timestamp":"16/12/2014 10:54:26", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "No Hostname",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"16/12/2014 11:14:32", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "No Hostname",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"16/12/2014 11:15:55", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "dhcphost.di.ubi.pt",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"16/12/2014 11:17:09", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "dhcphost.di.ubi.pt",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"16/12/2014 11:17:41", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "dhcphost.di.ubi.pt",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"16/12/2014 15:03:07", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "dhcphost.di.ubi.pt",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"16/12/2014 16:00:22", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "dhcphost.di.ubi.pt",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"16/12/2014 17:22:22", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "No Hostname",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"16/12/2014 17:22:24", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "dhcphost.di.ubi.pt",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"16/12/2014 19:16:43", "data":{
+  "ip": "84.90.35.43",
+  "hostname": "to2-84-90-35-43.netvisao.pt",
+  "city": "Fundão",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.1402,-7.5013",
+  "org": "AS13156 Cabovisao,SA"
+}},{"timestamp":"17/12/2014 11:23:46", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "No Hostname",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"17/12/2014 17:47:49", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "No Hostname",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"17/12/2014 22:04:41", "data":{
+  "ip": "84.90.35.43",
+  "hostname": "to2-84-90-35-43.netvisao.pt",
+  "city": "Fundão",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.1402,-7.5013",
+  "org": "AS13156 Cabovisao,SA"
+}},{"timestamp":"18/12/2014 00:22:31", "data":{
+  "ip": "84.90.35.43",
+  "hostname": "No Hostname",
+  "city": "Fundão",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.1402,-7.5013",
+  "org": "AS13156 Cabovisao,SA"
+}},{"timestamp":"18/12/2014 00:22:39", "data":{
+  "ip": "84.90.35.43",
+  "hostname": "to2-84-90-35-43.netvisao.pt",
+  "city": "Fundão",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.1402,-7.5013",
+  "org": "AS13156 Cabovisao,SA"
+}},{"timestamp":"18/12/2014 00:22:55", "data":{
+  "ip": "84.90.35.43",
+  "hostname": "to2-84-90-35-43.netvisao.pt",
+  "city": "Fundão",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.1402,-7.5013",
+  "org": "AS13156 Cabovisao,SA"
+}},{"timestamp":"18/12/2014 01:55:13", "data":{
+  "ip": "88.214.167.29",
+  "hostname": "No Hostname",
+  "city": "Lisbon",
+  "region": "Lisboa",
+  "country": "PT",
+  "loc": "38.7167,-9.1333",
+  "org": "AS42863 MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA, S.A."
+}},{"timestamp":"18/12/2014 01:56:27", "data":{
+  "ip": "88.214.167.29",
+  "hostname": "No Hostname",
+  "city": "Lisbon",
+  "region": "Lisboa",
+  "country": "PT",
+  "loc": "38.7167,-9.1333",
+  "org": "AS42863 MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA, S.A."
+}},{"timestamp":"18/12/2014 11:03:41", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "No Hostname",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"18/12/2014 11:03:54", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "dhcphost.di.ubi.pt",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"18/12/2014 16:52:46", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "No Hostname",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"18/12/2014 17:24:06", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "No Hostname",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"18/12/2014 17:24:13", "data":{
+  "ip": "188.104.47.12",
+  "hostname": "dslb-188-104-047-012.188.104.pools.vodafone-ip.de",
+  "city": "Ansbach",
+  "region": "Bayern",
+  "country": "DE",
+  "loc": "49.3007,10.5692",
+  "org": "AS3209 Vodafone GmbH",
+  "postal": "91522"
+}},{"timestamp":"18/12/2014 22:15:40", "data":{
+  "ip": "84.90.35.43",
+  "hostname": "to2-84-90-35-43.netvisao.pt",
+  "city": "Fundão",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.1402,-7.5013",
+  "org": "AS13156 Cabovisao,SA"
+}},{"timestamp":"18/12/2014 22:50:24", "data":{
+  "ip": "84.90.35.43",
+  "hostname": "to2-84-90-35-43.netvisao.pt",
+  "city": "Fundão",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.1402,-7.5013",
+  "org": "AS13156 Cabovisao,SA"
+}},{"timestamp":"20/12/2014 11:23:46", "data":{
+  "ip": "89.181.56.105",
+  "hostname": "89-181-56-105.net.novis.pt",
+  "city": null,
+  "region": null,
+  "country": "PT",
+  "loc": "38.7139,-9.1394",
+  "org": "AS2860 Novis Telecom, S.A."
+}},{"timestamp":"20/12/2014 12:29:07", "data":{
+  "ip": "89.181.56.105",
+  "hostname": "89-181-56-105.net.novis.pt",
+  "city": null,
+  "region": null,
+  "country": "PT",
+  "loc": "38.7139,-9.1394",
+  "org": "AS2860 Novis Telecom, S.A."
+}},{"timestamp":"20/12/2014 13:41:22", "data":{
+  "ip": "89.180.122.112",
+  "hostname": "No Hostname",
+  "city": null,
+  "region": null,
+  "country": "PT",
+  "loc": "38.7139,-9.1394",
+  "org": "AS2860 Novis Telecom, S.A."
+}},{"timestamp":"20/12/2014 21:42:40", "data":{
+  "ip": "89.181.56.105",
+  "hostname": "89-181-56-105.net.novis.pt",
+  "city": null,
+  "region": null,
+  "country": "PT",
+  "loc": "38.7139,-9.1394",
+  "org": "AS2860 Novis Telecom, S.A."
+}},{"timestamp":"21/12/2014 21:22:33", "data":{
+  "ip": "89.180.122.112",
+  "hostname": "No Hostname",
+  "city": null,
+  "region": null,
+  "country": "PT",
+  "loc": "38.7139,-9.1394",
+  "org": "AS2860 Novis Telecom, S.A."
+}},{"timestamp":"21/12/2014 21:50:54", "data":{
+  "ip": "89.180.122.112",
+  "hostname": "No Hostname",
+  "city": null,
+  "region": null,
+  "country": "PT",
+  "loc": "38.7139,-9.1394",
+  "org": "AS2860 Novis Telecom, S.A."
+}},{"timestamp":"22/12/2014 13:31:32", "data":{
+  "ip": "89.181.56.105",
+  "hostname": "89-181-56-105.net.novis.pt",
+  "city": null,
+  "region": null,
+  "country": "PT",
+  "loc": "38.7139,-9.1394",
+  "org": "AS2860 Novis Telecom, S.A."
+}},{"timestamp":"22/12/2014 17:08:52", "data":{
+  "ip": "89.181.56.105",
+  "hostname": "No Hostname",
+  "city": null,
+  "region": null,
+  "country": "PT",
+  "loc": "38.7139,-9.1394",
+  "org": "AS2860 Novis Telecom, S.A."
+}},{"timestamp":"22/12/2014 20:48:39", "data":{
+  "ip": "95.69.115.47",
+  "hostname": "No Hostname",
+  "city": null,
+  "region": null,
+  "country": "PT",
+  "loc": "38.7139,-9.1394",
+  "org": "AS42863 MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA, S.A."
+}},{"timestamp":"22/12/2014 21:34:20", "data":{
+  "ip": "95.69.115.47",
+  "hostname": "No Hostname",
+  "city": null,
+  "region": null,
+  "country": "PT",
+  "loc": "38.7139,-9.1394",
+  "org": "AS42863 MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA, S.A."
+}},{"timestamp":"23/12/2014 12:27:00", "data":{
+  "ip": "89.181.56.105",
+  "hostname": "89-181-56-105.net.novis.pt",
+  "city": null,
+  "region": null,
+  "country": "PT",
+  "loc": "38.7139,-9.1394",
+  "org": "AS2860 Novis Telecom, S.A."
+}},{"timestamp":"23/12/2014 12:43:06", "data":{
+  "ip": "89.181.56.105",
+  "hostname": "89-181-56-105.net.novis.pt",
+  "city": null,
+  "region": null,
+  "country": "PT",
+  "loc": "38.7139,-9.1394",
+  "org": "AS2860 Novis Telecom, S.A."
+}},{"timestamp":"24/12/2014 13:31:56", "data":{
+  "ip": "89.180.122.112",
+  "hostname": "89-180-122-112.net.novis.pt",
+  "city": null,
+  "region": null,
+  "country": "PT",
+  "loc": "38.7139,-9.1394",
+  "org": "AS2860 Novis Telecom, S.A."
+}},{"timestamp":"24/12/2014 20:06:44", "data":{
+  "ip": "89.181.56.105",
+  "hostname": "No Hostname",
+  "city": null,
+  "region": null,
+  "country": "PT",
+  "loc": "38.7139,-9.1394",
+  "org": "AS2860 Novis Telecom, S.A."
+}},{"timestamp":"26/12/2014 11:01:03", "data":{
+  "ip": "89.181.56.105",
+  "hostname": "89-181-56-105.net.novis.pt",
+  "city": null,
+  "region": null,
+  "country": "PT",
+  "loc": "38.7139,-9.1394",
+  "org": "AS2860 Novis Telecom, S.A."
+}},{"timestamp":"26/12/2014 11:01:20", "data":{
+  "ip": "89.181.56.105",
+  "hostname": "No Hostname",
+  "city": null,
+  "region": null,
+  "country": "PT",
+  "loc": "38.7139,-9.1394",
+  "org": "AS2860 Novis Telecom, S.A."
+}},{"timestamp":"27/12/2014 12:23:59", "data":{
+  "ip": "89.181.56.105",
+  "hostname": "89-181-56-105.net.novis.pt",
+  "city": null,
+  "region": null,
+  "country": "PT",
+  "loc": "38.7139,-9.1394",
+  "org": "AS2860 Novis Telecom, S.A."
+}},{"timestamp":"27/12/2014 15:36:53", "data":{
+  "ip": "89.181.56.105",
+  "hostname": "89-181-56-105.net.novis.pt",
+  "city": null,
+  "region": null,
+  "country": "PT",
+  "loc": "38.7139,-9.1394",
+  "org": "AS2860 Novis Telecom, S.A."
+}},{"timestamp":"27/12/2014 19:39:39", "data":{
+  "ip": "89.181.56.105",
+  "hostname": "89-181-56-105.net.novis.pt",
+  "city": null,
+  "region": null,
+  "country": "PT",
+  "loc": "38.7139,-9.1394",
+  "org": "AS2860 Novis Telecom, S.A."
+}},{"timestamp":"27/12/2014 22:02:25", "data":{
+  "ip": "89.181.56.105",
+  "hostname": "89-181-56-105.net.novis.pt",
+  "city": null,
+  "region": null,
+  "country": "PT",
+  "loc": "38.7139,-9.1394",
+  "org": "AS2860 Novis Telecom, S.A."
+}},{"timestamp":"28/12/2014 11:47:15", "data":{
+  "ip": "89.181.56.105",
+  "hostname": "89-181-56-105.net.novis.pt",
+  "city": null,
+  "region": null,
+  "country": "PT",
+  "loc": "38.7139,-9.1394",
+  "org": "AS2860 Novis Telecom, S.A."
+}},{"timestamp":"28/12/2014 18:11:19", "data":{
+  "ip": "89.181.56.105",
+  "hostname": "89-181-56-105.net.novis.pt",
+  "city": null,
+  "region": null,
+  "country": "PT",
+  "loc": "38.7139,-9.1394",
+  "org": "AS2860 Novis Telecom, S.A."
+}},{"timestamp":"28/12/2014 22:21:37", "data":{
+  "ip": "89.181.56.105",
+  "hostname": "89-181-56-105.net.novis.pt",
+  "city": null,
+  "region": null,
+  "country": "PT",
+  "loc": "38.7139,-9.1394",
+  "org": "AS2860 Novis Telecom, S.A."
+}},{"timestamp":"28/12/2014 22:21:40", "data":{
+  "ip": "89.181.56.105",
+  "hostname": "89-181-56-105.net.novis.pt",
+  "city": null,
+  "region": null,
+  "country": "PT",
+  "loc": "38.7139,-9.1394",
+  "org": "AS2860 Novis Telecom, S.A."
+}},{"timestamp":"29/12/2014 13:03:36", "data":{
+  "ip": "89.181.56.105",
+  "hostname": "89-181-56-105.net.novis.pt",
+  "city": null,
+  "region": null,
+  "country": "PT",
+  "loc": "38.7139,-9.1394",
+  "org": "AS2860 Novis Telecom, S.A."
+}},{"timestamp":"29/12/2014 17:38:53", "data":{
+  "ip": "89.181.56.105",
+  "hostname": "89-181-56-105.net.novis.pt",
+  "city": null,
+  "region": null,
+  "country": "PT",
+  "loc": "38.7139,-9.1394",
+  "org": "AS2860 Novis Telecom, S.A."
+}},{"timestamp":"29/12/2014 17:38:54", "data":{
+  "ip": "89.181.56.105",
+  "hostname": "89-181-56-105.net.novis.pt",
+  "city": null,
+  "region": null,
+  "country": "PT",
+  "loc": "38.7139,-9.1394",
+  "org": "AS2860 Novis Telecom, S.A."
+}},{"timestamp":"29/12/2014 19:40:00", "data":{
+  "ip": "89.181.56.105",
+  "hostname": "89-181-56-105.net.novis.pt",
+  "city": null,
+  "region": null,
+  "country": "PT",
+  "loc": "38.7139,-9.1394",
+  "org": "AS2860 Novis Telecom, S.A."
+}},{"timestamp":"31/12/2014 22:17:41", "data":{
+  "ip": "89.180.122.112",
+  "hostname": "No Hostname",
+  "city": null,
+  "region": null,
+  "country": "PT",
+  "loc": "38.7139,-9.1394",
+  "org": "AS2860 Novis Telecom, S.A."
+}},{"timestamp":"01/01/2015 13:40:40", "data":{
+  "ip": "89.181.56.105",
+  "hostname": "89-181-56-105.net.novis.pt",
+  "city": null,
+  "region": null,
+  "country": "PT",
+  "loc": "38.7139,-9.1394",
+  "org": "AS2860 Novis Telecom, S.A."
+}},{"timestamp":"01/01/2015 13:41:32", "data":{
+  "ip": "89.181.56.105",
+  "hostname": "No Hostname",
+  "city": null,
+  "region": null,
+  "country": "PT",
+  "loc": "38.7139,-9.1394",
+  "org": "AS2860 Novis Telecom, S.A."
+}},{"timestamp":"01/01/2015 23:39:56", "data":{
+  "ip": "89.181.56.105",
+  "hostname": "89-181-56-105.net.novis.pt",
+  "city": null,
+  "region": null,
+  "country": "PT",
+  "loc": "38.7139,-9.1394",
+  "org": "AS2860 Novis Telecom, S.A."
+}},{"timestamp":"02/01/2015 16:26:10", "data":{
+  "ip": "89.181.56.105",
+  "hostname": "No Hostname",
+  "city": null,
+  "region": null,
+  "country": "PT",
+  "loc": "38.7139,-9.1394",
+  "org": "AS2860 Novis Telecom, S.A."
+}},{"timestamp":"02/01/2015 23:32:55", "data":{
+  "ip": "89.181.56.105",
+  "hostname": "89-181-56-105.net.novis.pt",
+  "city": null,
+  "region": null,
+  "country": "PT",
+  "loc": "38.7139,-9.1394",
+  "org": "AS2860 Novis Telecom, S.A."
+}},{"timestamp":"02/01/2015 23:32:56", "data":{
+  "ip": "89.181.56.105",
+  "hostname": "89-181-56-105.net.novis.pt",
+  "city": null,
+  "region": null,
+  "country": "PT",
+  "loc": "38.7139,-9.1394",
+  "org": "AS2860 Novis Telecom, S.A."
+}},{"timestamp":"03/01/2015 00:25:08", "data":{
+  "ip": "89.181.56.105",
+  "hostname": "89-181-56-105.net.novis.pt",
+  "city": null,
+  "region": null,
+  "country": "PT",
+  "loc": "38.7139,-9.1394",
+  "org": "AS2860 Novis Telecom, S.A."
+}},{"timestamp":"03/01/2015 00:25:30", "data":{
+  "ip": "89.181.56.105",
+  "hostname": "89-181-56-105.net.novis.pt",
+  "city": null,
+  "region": null,
+  "country": "PT",
+  "loc": "38.7139,-9.1394",
+  "org": "AS2860 Novis Telecom, S.A."
+}},{"timestamp":"03/01/2015 00:35:00", "data":{
+  "ip": "89.181.56.105",
+  "hostname": "89-181-56-105.net.novis.pt",
+  "city": null,
+  "region": null,
+  "country": "PT",
+  "loc": "38.7139,-9.1394",
+  "org": "AS2860 Novis Telecom, S.A."
+}},{"timestamp":"03/01/2015 00:36:21", "data":{
+  "ip": "89.181.56.105",
+  "hostname": "89-181-56-105.net.novis.pt",
+  "city": null,
+  "region": null,
+  "country": "PT",
+  "loc": "38.7139,-9.1394",
+  "org": "AS2860 Novis Telecom, S.A."
+}},{"timestamp":"03/01/2015 00:37:09", "data":{
+  "ip": "89.181.56.105",
+  "hostname": "89-181-56-105.net.novis.pt",
+  "city": null,
+  "region": null,
+  "country": "PT",
+  "loc": "38.7139,-9.1394",
+  "org": "AS2860 Novis Telecom, S.A."
+}},{"timestamp":"05/01/2015 00:49:48", "data":{
+  "ip": "84.90.35.43",
+  "hostname": "to2-84-90-35-43.netvisao.pt",
+  "city": "Fundão",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.1402,-7.5013",
+  "org": "AS13156 Cabovisao,SA"
+}},{"timestamp":"05/01/2015 11:11:59", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "No Hostname",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"05/01/2015 11:15:24", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "No Hostname",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"05/01/2015 12:23:43", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "No Hostname",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"05/01/2015 15:15:04", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "No Hostname",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"05/01/2015 18:37:14", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "No Hostname",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"05/01/2015 18:39:33", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "No Hostname",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"05/01/2015 18:40:18", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "No Hostname",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"05/01/2015 18:46:52", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "dhcphost.di.ubi.pt",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"05/01/2015 18:47:20", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "dhcphost.di.ubi.pt",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"05/01/2015 18:47:56", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "dhcphost.di.ubi.pt",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"06/01/2015 15:11:49", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "No Hostname",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"06/01/2015 15:12:53", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "No Hostname",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"06/01/2015 17:47:07", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "No Hostname",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"06/01/2015 18:11:49", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "No Hostname",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"06/01/2015 18:32:13", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "No Hostname",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"06/01/2015 18:32:51", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "dhcphost.di.ubi.pt",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"06/01/2015 18:33:08", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "dhcphost.di.ubi.pt",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"06/01/2015 18:33:56", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "dhcphost.di.ubi.pt",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"06/01/2015 18:34:01", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "dhcphost.di.ubi.pt",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"06/01/2015 18:37:29", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "dhcphost.di.ubi.pt",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"06/01/2015 18:37:49", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "dhcphost.di.ubi.pt",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"06/01/2015 18:38:14", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "dhcphost.di.ubi.pt",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"06/01/2015 18:38:29", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "No Hostname",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"06/01/2015 18:38:50", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "dhcphost.di.ubi.pt",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"06/01/2015 18:40:29", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "No Hostname",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"06/01/2015 18:40:48", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "No Hostname",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"06/01/2015 18:52:59", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "No Hostname",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"06/01/2015 18:54:21", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "dhcphost.di.ubi.pt",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"06/01/2015 22:50:56", "data":{
+  "ip": "84.90.35.43",
+  "hostname": "to2-84-90-35-43.netvisao.pt",
+  "city": "Fundão",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.1402,-7.5013",
+  "org": "AS13156 Cabovisao,SA"
+}},{"timestamp":"06/01/2015 23:42:09", "data":{
+  "ip": "84.90.35.43",
+  "hostname": "to2-84-90-35-43.netvisao.pt",
+  "city": "Fundão",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.1402,-7.5013",
+  "org": "AS13156 Cabovisao,SA"
+}},{"timestamp":"06/01/2015 23:42:10", "data":{
+  "ip": "84.90.35.43",
+  "hostname": "to2-84-90-35-43.netvisao.pt",
+  "city": "Fundão",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.1402,-7.5013",
+  "org": "AS13156 Cabovisao,SA"
+}},{"timestamp":"07/01/2015 11:44:33", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "No Hostname",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"07/01/2015 15:34:25", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "No Hostname",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"07/01/2015 23:13:58", "data":{
+  "ip": "84.90.35.43",
+  "hostname": "to2-84-90-35-43.netvisao.pt",
+  "city": "Fundão",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.1402,-7.5013",
+  "org": "AS13156 Cabovisao,SA"
+}},{"timestamp":"08/01/2015 10:37:16", "data":{
+  "ip": "193.137.97.143",
+  "hostname": "No Hostname",
+  "city": "Beirã",
+  "region": "Portalegre",
+  "country": "PT",
+  "loc": "39.4502,-7.3686",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"08/01/2015 12:53:14", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "No Hostname",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"08/01/2015 15:50:05", "data":{
+  "ip": "193.137.97.143",
+  "hostname": "No Hostname",
+  "city": "Beirã",
+  "region": "Portalegre",
+  "country": "PT",
+  "loc": "39.4502,-7.3686",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"08/01/2015 23:02:07", "data":{
+  "ip": "84.90.35.43",
+  "hostname": "to2-84-90-35-43.netvisao.pt",
+  "city": "Fundão",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.1402,-7.5013",
+  "org": "AS13156 Cabovisao,SA"
+}},{"timestamp":"08/01/2015 23:02:09", "data":{
+  "ip": "84.90.35.43",
+  "hostname": "to2-84-90-35-43.netvisao.pt",
+  "city": "Fundão",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.1402,-7.5013",
+  "org": "AS13156 Cabovisao,SA"
+}},{"timestamp":"08/01/2015 23:04:19", "data":{
+  "ip": "84.90.35.43",
+  "hostname": "to2-84-90-35-43.netvisao.pt",
+  "city": "Fundão",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.1402,-7.5013",
+  "org": "AS13156 Cabovisao,SA"
+}},{"timestamp":"08/01/2015 23:30:09", "data":{
+  "ip": "84.90.35.43",
+  "hostname": "to2-84-90-35-43.netvisao.pt",
+  "city": "Fundão",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.1402,-7.5013",
+  "org": "AS13156 Cabovisao,SA"
+}},{"timestamp":"08/01/2015 23:30:10", "data":{
+  "ip": "84.90.35.43",
+  "hostname": "to2-84-90-35-43.netvisao.pt",
+  "city": "Fundão",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.1402,-7.5013",
+  "org": "AS13156 Cabovisao,SA"
+}},{"timestamp":"09/01/2015 10:47:48", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "No Hostname",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"09/01/2015 12:25:13", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "No Hostname",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"09/01/2015 12:35:33", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "No Hostname",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"09/01/2015 12:36:05", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "dhcphost.di.ubi.pt",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"09/01/2015 12:36:18", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "dhcphost.di.ubi.pt",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"09/01/2015 12:36:20", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "dhcphost.di.ubi.pt",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"09/01/2015 14:50:25", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "No Hostname",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"09/01/2015 20:01:20", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "No Hostname",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"10/01/2015 15:00:51", "data":{
+  "ip": "84.90.35.43",
+  "hostname": "to2-84-90-35-43.netvisao.pt",
+  "city": "Fundão",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.1402,-7.5013",
+  "org": "AS13156 Cabovisao,SA"
+}},{"timestamp":"10/01/2015 17:04:52", "data":{
+  "ip": "84.90.35.43",
+  "hostname": "to2-84-90-35-43.netvisao.pt",
+  "city": "Fundão",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.1402,-7.5013",
+  "org": "AS13156 Cabovisao,SA"
+}},{"timestamp":"10/01/2015 17:05:27", "data":{
+  "ip": "84.90.35.43",
+  "hostname": "to2-84-90-35-43.netvisao.pt",
+  "city": "Fundão",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.1402,-7.5013",
+  "org": "AS13156 Cabovisao,SA"
+}},{"timestamp":"10/01/2015 17:06:34", "data":{
+  "ip": "84.90.35.43",
+  "hostname": "to2-84-90-35-43.netvisao.pt",
+  "city": "Fundão",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.1402,-7.5013",
+  "org": "AS13156 Cabovisao,SA"
+}},{"timestamp":"10/01/2015 23:43:32", "data":{
+  "ip": "84.90.35.43",
+  "hostname": "to2-84-90-35-43.netvisao.pt",
+  "city": "Fundão",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.1402,-7.5013",
+  "org": "AS13156 Cabovisao,SA"
+}},{"timestamp":"10/01/2015 23:43:33", "data":{
+  "ip": "84.90.35.43",
+  "hostname": "to2-84-90-35-43.netvisao.pt",
+  "city": "Fundão",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.1402,-7.5013",
+  "org": "AS13156 Cabovisao,SA"
+}},{"timestamp":"11/01/2015 00:00:08", "data":{
+  "ip": "84.90.35.43",
+  "hostname": "to2-84-90-35-43.netvisao.pt",
+  "city": "Fundão",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.1402,-7.5013",
+  "org": "AS13156 Cabovisao,SA"
+}},{"timestamp":"11/01/2015 00:06:15", "data":{
+  "ip": "84.90.35.43",
+  "hostname": "to2-84-90-35-43.netvisao.pt",
+  "city": "Fundão",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.1402,-7.5013",
+  "org": "AS13156 Cabovisao,SA"
+}},{"timestamp":"11/01/2015 00:17:28", "data":{
+  "ip": "84.90.35.43",
+  "hostname": "to2-84-90-35-43.netvisao.pt",
+  "city": "Fundão",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.1402,-7.5013",
+  "org": "AS13156 Cabovisao,SA"
+}},{"timestamp":"11/01/2015 11:43:44", "data":{
+  "ip": "84.90.35.43",
+  "hostname": "to2-84-90-35-43.netvisao.pt",
+  "city": "Fundão",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.1402,-7.5013",
+  "org": "AS13156 Cabovisao,SA"
+}},{"timestamp":"12/01/2015 12:07:21", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "No Hostname",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"12/01/2015 15:03:23", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "No Hostname",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"12/01/2015 21:11:47", "data":{
+  "ip": "84.90.35.43",
+  "hostname": "to2-84-90-35-43.netvisao.pt",
+  "city": "Fundão",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.1402,-7.5013",
+  "org": "AS13156 Cabovisao,SA"
+}},{"timestamp":"13/01/2015 00:01:20", "data":{
+  "ip": "84.90.35.43",
+  "hostname": "to2-84-90-35-43.netvisao.pt",
+  "city": "Fundão",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.1402,-7.5013",
+  "org": "AS13156 Cabovisao,SA"
+}},{"timestamp":"13/01/2015 00:27:19", "data":{
+  "ip": "84.90.35.43",
+  "hostname": "to2-84-90-35-43.netvisao.pt",
+  "city": "Fundão",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.1402,-7.5013",
+  "org": "AS13156 Cabovisao,SA"
+}},{"timestamp":"14/01/2015 00:09:12", "data":{
+  "ip": "84.90.35.43",
+  "hostname": "to2-84-90-35-43.netvisao.pt",
+  "city": "Fundão",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.1402,-7.5013",
+  "org": "AS13156 Cabovisao,SA"
+}},{"timestamp":"14/01/2015 00:39:35", "data":{
+  "ip": "84.90.35.43",
+  "hostname": "to2-84-90-35-43.netvisao.pt",
+  "city": "Fundão",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.1402,-7.5013",
+  "org": "AS13156 Cabovisao,SA"
+}},{"timestamp":"14/01/2015 12:22:28", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "No Hostname",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"14/01/2015 12:22:53", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "No Hostname",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"14/01/2015 16:11:00", "data":{
+  "ip": "193.137.97.135",
+  "hostname": "No Hostname",
+  "city": "Beirã",
+  "region": "Portalegre",
+  "country": "PT",
+  "loc": "39.4502,-7.3686",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"14/01/2015 19:33:30", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "No Hostname",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"15/01/2015 10:16:11", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "No Hostname",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"15/01/2015 10:16:12", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "dhcphost.di.ubi.pt",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"15/01/2015 14:16:35", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "No Hostname",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"15/01/2015 16:07:11", "data":{
+  "ip": "193.136.66.29",
+  "hostname": "No Hostname",
+  "city": "Covilhã",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.2860,-7.5040",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"15/01/2015 21:04:36", "data":{
+  "ip": "84.90.35.43",
+  "hostname": "to2-84-90-35-43.netvisao.pt",
+  "city": "Fundão",
+  "region": "Castelo Branco",
+  "country": "PT",
+  "loc": "40.1402,-7.5013",
+  "org": "AS13156 Cabovisao,SA"
+}},{"timestamp":"16/01/2015 10:51:13", "data":{
+  "ip": "193.137.97.194",
+  "hostname": "No Hostname",
+  "city": "Beirã",
+  "region": "Portalegre",
+  "country": "PT",
+  "loc": "39.4502,-7.3686",
+  "org": "AS1930 Rede Ciencia Tecnologia e Sociedade (RCTS)"
+}},{"timestamp":"16/01/2015 17:24:06", "data":{
+  "ip": "89.181.11.84",
+  "hostname": "89-181-11-84.net.novis.pt",
+  "city": null,
+  "region": null,
+  "country": "PT",
+  "loc": "38.7139,-9.1394",
+  "org": "AS2860 Novis Telecom, S.A."
+}},{"timestamp":"16/01/2015 17:24:12", "data":{
+  "ip": "89.181.11.84",
+  "hostname": "No Hostname",
+  "city": null,
+  "region": null,
+  "country": "PT",
+  "loc": "38.7139,-9.1394",
+  "org": "AS2860 Novis Telecom, S.A."
+}},{"timestamp":"17/01/2015 00:11:42", "data":{
+  "ip": "89.181.11.84",
+  "hostname": "89-181-11-84.net.novis.pt",
+  "city": null,
+  "region": null,
+  "country": "PT",
+  "loc": "38.7139,-9.1394",
+  "org": "AS2860 Novis Telecom, S.A."
+}},{"timestamp":"17/01/2015 11:49:26", "data":{
+  "ip": "89.181.11.84",
+  "hostname": "89-181-11-84.net.novis.pt",
+  "city": null,
+  "region": null,
+  "country": "PT",
+  "loc": "38.7139,-9.1394",
+  "org": "AS2860 Novis Telecom, S.A."
+}},{"timestamp":"17/01/2015 17:51:20", "data":{
+  "ip": "89.181.11.84",
+  "hostname": "89-181-11-84.net.novis.pt",
+  "city": null,
+  "region": null,
+  "country": "PT",
+  "loc": "38.7139,-9.1394",
+  "org": "AS2860 Novis Telecom, S.A."
+}},
